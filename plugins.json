@@ -2,23 +2,15 @@
     {
       "id": "Armory.RandomWaitPlugin",
       "description": "An example of a PF4J-based plugin that provides a custom pipeline stage.",
-      "provider": "https://github.com/spinnaker-plugin-examples",
+      "provider": "https://github.com/siddhu-opsmx/examplePluginRepos",
       "releases": [
         {
-          "version": "1.1.17",
-          "date": "2020-11-03T16:20:59.469168Z",
-          "requires": "orca>=0.0.0,deck>=0.0.0",
-          "sha512sum": "e452e88919c4663f4d47c440ad8ddf75d1bd7b9eb995e9644a9c7710f8e1cfe7a21c3c73a3cb0286e75dd3a11e33a7e8907dddd56d08ec719150ab20d0d7b7a8",
-          "state": "",
-          "url": "https://github.com/spinnaker-plugin-examples/pf4jStagePlugin/releases/download/v1.1.17/pf4jStagePlugin-v1.1.17.zip"
-        },
-        {
-          "version": "1.1.16",
+          "version": "0.0.1",
           "date": "2020-11-02T21:12:05.398583Z",
           "requires": "orca>=0.0.0,deck>=0.0.0",
-          "sha512sum": "bc998508bacc41b8b83b0a98d850316aead2ed9b85f7e0d532d24b87dd120efc8632a66f3000441b2552e24f291d98dc9cd854e09cba6d84f7ba6e72aad34594",
+          "sha512sum": "6dc6d2e99c4969f43dee63993028a59b93782356117c1bf16d54c3471f4b725d45a4a92bfbdc6b467c8459bf887c6e9ae586c00e6ec8e9b1a4e56f4baa8cc2df",
           "state": "",
-          "url": "https://github.com/spinnaker-plugin-examples/pf4jStagePlugin/releases/download/v1.1.16/pf4jStagePlugin-v1.1.16.zip"
+          "url": "https://github.com/siddhu-opsmx/examplePluginRepos/releases/download/0.0.1/initialplugin.zip"
         },
         {
           "version": "1.1.14",
