@@ -2,7 +2,7 @@
     {
       "id": "Armory.RandomWaitPlugin",
       "description": "An example of a PF4J-based plugin that provides a custom pipeline stage.",
-      "provider": "https://github.com/siddhu-opsmx/examplePluginRepos",
+      "provider": "https://github.com/siddhu-opsmx",
       "releases": [
         {
           "version": "0.0.1",
