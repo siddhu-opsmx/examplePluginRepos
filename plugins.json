@@ -13,7 +13,7 @@
           "url": "https://github.com/siddhu-opsmx/examplePluginRepos/releases/download/0.0.1/initialplugin-v0.0.1.zip"
         },
         {
-          "version": "1.1.1.1",
+          "version": "0.0.2",
           "date": "2020-11-02T21:12:05.398583Z",
           "requires": "orca>=0.0.0,deck>=0.0.0",
           "sha512sum": "78bec31fb7b7afdd5b9764d7930cabf5e1c4bae42b6d4fdc3b074ec509ed73540fb4a3aaf9a8a89448931944eb05432e1d3b0091878d969c5ff66709825e5189",
