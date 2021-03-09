@@ -18,7 +18,7 @@
           "requires": "orca>=0.0.0,deck>=0.0.0",
           "sha512sum": "78bec31fb7b7afdd5b9764d7930cabf5e1c4bae42b6d4fdc3b074ec509ed73540fb4a3aaf9a8a89448931944eb05432e1d3b0091878d969c5ff66709825e5189",
           "state": "",
-          "url": "https://github.com/siddhu-opsmx/plugin/releases/download/1.1.1.1/PLUGIN.zip"
+          "url": "https://github.com/siddhu-opsmx/plugin/releases/download/0.0.2/PLUGIN.zip"
         },
           {
           "version": "1.1.17",
