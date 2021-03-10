@@ -20,7 +20,15 @@
           "state": "",
           "url": "https://github.com/siddhu-opsmx/plugin/releases/download/0.0.2/PLUGIN.zip"
         },
-          {
+        {
+          "version": "0.0.3",
+          "date": "2020-11-03T16:20:59.469168Z",
+          "requires": "orca>=0.0.0,deck>=0.0.0",
+          "sha512sum": "12fcf30ca252da3c936f269ac0d07851cc5d0ee105ff72b2d04029d20fea584f5391275fcb01998aad0472856b7af5114acd2f36aeea0fd8526bb993c7e86508",
+          "state": "",
+          "url": "https://github.com/siddhu-opsmx/plugin/releases/download/0.0.3/customizePlugin-v0.0.3.zip"
+        },
+        {
           "version": "1.1.17",
           "date": "2020-11-03T16:20:59.469168Z",
           "requires": "orca>=0.0.0,deck>=0.0.0",
