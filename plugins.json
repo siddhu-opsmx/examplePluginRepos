@@ -34,7 +34,7 @@
           "requires": "orca>=0.0.0,deck>=0.0.0",
           "sha512sum": "63d0f360dd17bf43db848e82eb2756fd05f7c7a32a176af259016fc9ec7716b7fd80c9c495cba5a328a6558b18483131fd0a9cf3a8b502034ea35f20e580f7e8",
           "state": "",
-          "url": "https://github.com/siddhu-opsmx/examplePluginRepos/releases/download/0.0.1/initialplugin-v0.0.1.zip"
+          "url": "https://github.com/siddhu-opsmx/plugin/releases/download/0.0.4/webhook-v0.0.4.zip"
         },
         {
           "version": "1.1.17",
