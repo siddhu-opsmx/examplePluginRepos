@@ -40,7 +40,7 @@
           "version": "0.0.5",
           "date": "2020-11-03T16:20:59.469168Z",
           "requires": "orca>=0.0.0,deck>=0.0.0",
-          "sha512sum": "f02e53a90e7fb4bfa79848d23217c1e483a00ce9192865411d756de10507e2b92e53b13454762cb353a3a2f66298382cf9cd3d1d409987719359227a9c4a4998",
+          "sha512sum": "e64fa0813709945591b1f68a8a05460d358c244d0f4efe89059d36beb7fe64ba93173115e37a03d2316f8e4e488c9d0e251724caa9408991035c9fb10586250b",
           "state": "",
           "url": "https://github.com/siddhu-opsmx/plugin/releases/download/0.0.5/customWaitStage-v0.0.5.zip"
         },
